@@ -1,0 +1,21 @@
+h1 {
+    font-size: 50px;
+    background-color: crimson;
+}
+
+h2 {
+    font-size: 35px;
+    font-weight: 900;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: 900;
+}
+
+p {
+    font-size: 25px;
+    color: crimson;
+    background-color: #000000;
+    font-weight: 500;
+}
